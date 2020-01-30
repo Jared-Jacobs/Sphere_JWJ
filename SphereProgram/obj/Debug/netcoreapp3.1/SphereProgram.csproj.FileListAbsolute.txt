@@ -1,0 +1,10 @@
+C:\Users\jjpla\source\repos\SphereProgram\SphereProgram\obj\Debug\netcoreapp3.1\SphereProgram.AssemblyInfoInputs.cache
+C:\Users\jjpla\source\repos\SphereProgram\SphereProgram\obj\Debug\netcoreapp3.1\SphereProgram.AssemblyInfo.cs
+C:\Users\jjpla\source\repos\SphereProgram\SphereProgram\bin\Debug\netcoreapp3.1\SphereProgram.exe
+C:\Users\jjpla\source\repos\SphereProgram\SphereProgram\bin\Debug\netcoreapp3.1\SphereProgram.deps.json
+C:\Users\jjpla\source\repos\SphereProgram\SphereProgram\bin\Debug\netcoreapp3.1\SphereProgram.runtimeconfig.json
+C:\Users\jjpla\source\repos\SphereProgram\SphereProgram\bin\Debug\netcoreapp3.1\SphereProgram.runtimeconfig.dev.json
+C:\Users\jjpla\source\repos\SphereProgram\SphereProgram\bin\Debug\netcoreapp3.1\SphereProgram.dll
+C:\Users\jjpla\source\repos\SphereProgram\SphereProgram\bin\Debug\netcoreapp3.1\SphereProgram.pdb
+C:\Users\jjpla\source\repos\SphereProgram\SphereProgram\obj\Debug\netcoreapp3.1\SphereProgram.dll
+C:\Users\jjpla\source\repos\SphereProgram\SphereProgram\obj\Debug\netcoreapp3.1\SphereProgram.pdb
